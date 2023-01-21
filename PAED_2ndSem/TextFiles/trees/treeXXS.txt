@@ -1,0 +1,13 @@
+12
+5;SmartShuffle;ActionScript;O(n⁶);5
+6;PseudoCopy;rc;O(n⁹);6
+4;Recursive HeuristicLoop;Limnor;O(n⁶·log(n));4
+12;RandomCopy;Boo;O(n⁷·log(n));12
+8;MergeShuffle;ActionScript;O(1);8
+7;Recursive HeuristicRank;WATFIV, WATFOR (WATerloo FORtran IV);O(n⁵·log(n));7
+1;QuantumSearch;ChucK;O(n!·log(n));1
+14;RandomCopy;Boo;O(n⁷·log(n));14
+2;MergeShuffle;ActionScript;O(1);2
+11;RandomCopy;Boo;O(n⁷·log(n));11
+3;HashCopy;Ace DASL (Distributed Application Specification Language);O(n⁸);3
+10;RandomCopy;Boo;O(n⁷·log(n));10
